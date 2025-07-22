@@ -81,12 +81,3 @@
 </div>
 
 ###
-
-<div align="left">
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/ryan-mant/ryan-mant/output/snake.svg" alt="Snake animation" />
-
-###
