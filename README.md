@@ -27,7 +27,7 @@
 
 Hi there! I'm Ryan, a software engineer specialized in building resilient, high-concurrency backend systems.
 
-- 🔭 **Currently working as** a Consultant embedded in mission-critical financial platforms, focusing on core microservices and digital onboarding flows.
+- 🔭 **Currently working as** a Consultant embedded in mission-critical financial platforms, focusing on core microservices.
 - 🧠 **Deeply focused on** Java 21+, Spring Boot 3, Apache Kafka, and Hexagonal Architecture.
 - 🚀 **Passionate about** optimizing cloud infrastructure (AWS/Azure) and solving complex distributed system challenges.
 - 🌍 **Continually sharpening** my English skills to connect and collaborate with global tech teams.
