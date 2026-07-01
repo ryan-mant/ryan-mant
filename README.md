@@ -47,13 +47,11 @@ Hi there! I'm Ryan, a software engineer specialized in building resilient, high-
 
 ### 🔥 My Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ryan-mant&amp;show_icons=true&amp;theme=gotham&amp;hide_border=false&amp;border_radius=5" height="190" alt="github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ryan-mant&amp;locale=en&amp;hide_title=false&amp;layout=compact&amp;card_width=320&amp;langs_count=4&amp;theme=gotham&amp;hide_border=false&amp;order=2" height="190" alt="languages graph" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ryan-mant&show_icons=true&theme=gotham" height="190" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ryan-mant&layout=compact&langs_count=4&theme=gotham" height="190" alt="languages graph" />
+</p>
 
-<br>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=ryan-mant&amp;locale=en&amp;mode=daily&amp;theme=gotham&amp;hide_border=false&amp;border_radius=5" height="190" alt="streak graph" />
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ryan-mant&theme=gotham" height="190" alt="streak graph" />
+</p>
