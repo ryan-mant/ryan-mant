@@ -50,10 +50,10 @@ Hi, I'm **Ryan** — a Software Engineer building resilient backend services and
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ryan-mant&show_icons=true&theme=gotham" height="185" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ryan-mant&layout=compact&langs_count=6&theme=gotham" height="185" alt="Top Languages" />
+  <img src="./profile-summary-card-output/github_dark/3-stats.svg" height="185" alt="GitHub Stats" />
+  <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" height="185" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ryan-mant&theme=gotham" height="185" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=ryan-mant&theme=github-dark-blue" height="185" alt="GitHub Streak" />
 </p>
